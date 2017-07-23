@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Exclude from Gallery</string>
+
+    <string name="permission_dialog_title">Permissions needed</string>
+    <string name="permission_dialog_message">In order to exclude folders from the gallery, the app needs some permissions.</string>
+    <string name="img_contentdesc_folder">Folder</string>
+    <string name="img_contentdesc_folder_visible_in_gallery">Folder visible in gallery</string>
+    <string name="img_contentdesc_folder_invisible_in_gallery">Folder invisible in gallery</string>
 </resources>
